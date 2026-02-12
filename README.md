@@ -1,32 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%2C+I'm+Jayani+👩‍💻&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS+Student+|+Aspiring+Platform+Engineer+%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Hi%2C+I'm+Jayani+👩‍💻&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS+Student+|+Aspiring+Platform+Engineer+%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
 </div>
 
-<h1 align="center">Full-Stack Developer & Aspiring Platform Engineer from Sri Lanka</h1>
+<h1 align="center">Aspiring Software Engineer & Full-Stack Developer from Sri Lanka</h1>
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Undergraduate | University of Ruhuna  
-- 🚀 Passionate about **Full-Stack Development, DevOps, and Cloud Technologies**  
-- 🔭 Currently working on: **Creator Subscription Platform (MERN)**  
-- 🌱 Learning: **Java, Spring Boot, Golang, Rust, AWS, Docker, Kubernetes**  
-- 💬 Ask me about: `React`, `Node.js`, `Next.js`, `SQL`, `System Design`  
-- ⚡ Fun fact: I love solving complex problems and writing clean code  
+- 🚀 Passionate about **Full-Stack Development and Cloud Technologies**
+- 🌱Currently Learning: **Cloud & AI technologies**  
+- 💡 Fun fact: My code sometimes works on the first try… and it feels magical.  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,c,cs,go,rust" />
+<img src="https://skillicons.dev/icons?i=java,ts,c,cs" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,materialui,redux,zustand" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,zustand,html,css" />
 
 ### 🖥️ Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgresql,sqlite,php" />
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
 
 ### ☁️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,linux,aws,git,githubactions,postman,vercel,netlify,prisma" />
