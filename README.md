@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Hi%2C+I'm+Jayani+👩‍💻&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS+Student+|+Aspiring+Platform+Engineer+%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Hi%2C+I'm+Jayani+👩‍💻&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer+Science+Undergraduate"/>
 </div>
 
 <h1 align="center">Aspiring Software Engineer & Full-Stack Developer from Sri Lanka</h1>
