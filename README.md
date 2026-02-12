@@ -1,108 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jayani</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%2C+I'm+Jayani+👩‍💻&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS+Student+|+Aspiring+Platform+Engineer+%F0%9F%9A%80&descAlignY=55&descAlign=50"/>
+</div>
 
-<h3 align="center">
-🎓 Computer Science Undergraduate at the University of Ruhuna, Sri Lanka <br/>
-💻 Aspiring Software Engineer | Backend & Full-Stack Development <br/>
-🚀 Passionate about building user-friendly real-world applications
-</h3>
+<h1 align="center">Full-Stack Developer & Aspiring Platform Engineer from Sri Lanka</h1>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Undergraduate | University of Ruhuna  
+- 🚀 Passionate about **Full-Stack Development, DevOps, and Cloud Technologies**  
+- 🔭 Currently working on: **Creator Subscription Platform (MERN)**  
+- 🌱 Learning: **Java, Spring Boot, Golang, Rust, AWS, Docker, Kubernetes**  
+- 💬 Ask me about: `React`, `Node.js`, `Next.js`, `SQL`, `System Design`  
+- ⚡ Fun fact: I love solving complex problems and writing clean code  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,c,cs,go,rust" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,materialui,redux,zustand" />
+
+### 🖥️ Backend
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgresql,sqlite,php" />
+
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,githubactions,postman,vercel,netlify,prisma" />
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif" width="340"/>
-</p>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayanianu10&label=Profile%20views&color=0e75b6&style=flat" alt="jayanianu10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayanianu10&theme=onedark&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 🌱 Currently Learning
-- **Computer Security**
-- **Docker**
-- **Cloud Deployment (AWS)**
-
-### 📫 Reach Me
-- **Email:** jayanianuththara10@gmail.com
-
----
-
-<h3 align="left">🔗 Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayani-dahanayaka" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/jayanianuththar1" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🧩 Tech Stack
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
-
----
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
----
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanianu10&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayanianu10&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanianu10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-⭐ *Thank you for visiting my profile — feel free to explore my repositories!*
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&area=true&point=36BCF7&area_color=36BCF7" />
+</p>
+
+---
+
+## 🏗️ Current Focus
+
+- 🔐 Secure & scalable application development  
+- ☁️ Cloud-native architecture & microservices  
+- 🐳 Containerization & CI/CD pipelines  
+- 🧠 System design & problem-solving challenges  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN_URL)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Enthusiast;Future+Platform+Engineer" />
+</p>
+
+---
+
+<p align="center">Last Updated on 12/02/2026</p>
