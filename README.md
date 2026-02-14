@@ -106,10 +106,6 @@
   
   ---
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  ---
-  
   *Last Updated: February 2026*
   
   ⭐️ From [JayaniAnu10](https://github.com/JayaniAnu10)
