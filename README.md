@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Computer Science Undergraduate** | University of Ruhuna
+- 🎓 **Computer Science Graduate** | University of Ruhuna
 - 🚀 Passionate about **Full-Stack Development** and **Cloud Technologies**
 - 🌱 Currently Learning: **Cloud & AI technologies**
 - 💡 Fun fact: My code sometimes works on the first try… and it feels magical ✨
